@@ -1,5 +1,6 @@
 //Nome: Nicolas Ribeiro Alves
 //Matricula: 1222010390
+//Contador de 1 até N
 
 import java.util.Scanner;
 
