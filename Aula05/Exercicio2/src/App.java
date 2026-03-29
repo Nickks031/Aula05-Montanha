@@ -1,5 +1,7 @@
 //Nome: Nicolas Ribeiro 
 //Matricula: 1222010390
+//Classificação de trangulos
+
 import java.util.Scanner;
 
 public class App {
