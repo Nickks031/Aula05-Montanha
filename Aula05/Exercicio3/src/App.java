@@ -4,6 +4,7 @@
 //Usar double, switch com break em cada case, e um default para caso o usuario digite uma operacao invalida.
 //Para divisao verificar se o divisor é zero antes de calcular.
 
+
 import java.util.Scanner;
 
 public class App {
