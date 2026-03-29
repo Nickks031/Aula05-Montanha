@@ -1,5 +1,6 @@
 //Nome: Nicolas Ribeiro Alves Rocha
 //Matrícula: 1222010390
+//Par ou Ímpar
 
 import java.util.Scanner;
 
