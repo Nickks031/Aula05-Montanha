@@ -1,7 +1,7 @@
 //Nome: Nicolas Ribeiro
 //Matricula: 1222010390
-//Menu de Conversor de Unidades, deve se repetir até que o usuario escolha a opção 0 - Sair.
-//Usar somente while e switch/case.
+//Menu de Conversor de Unidades, deve se repetir até que o usuario escolha a opção 0 - Sair
+//Usar somente while e switch/case
 
 import java.util.Scanner;
 
